@@ -1,5 +1,5 @@
 # DevSoc Asset Pack
-This repository contains all iterations of the DevSoc logo and other assets used by the society; including those used for specific events
+This repository contains all iterations of the DevSoc logo and other assets used by the society.
 
 #### Current Logo:
 - Font: [Open Sans Extra-bold 800](https://fonts.google.com/specimen/Open+Sans?query=Open+sans)
