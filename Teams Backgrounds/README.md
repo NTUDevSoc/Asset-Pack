@@ -14,5 +14,8 @@ backgrounds based on jokes, discussions or community artwork.
 ### Just some Rad Frogs:
 ![](https://github.com/NTUDevSoc/Asset-Pack/blob/master/Teams%20Backgrounds/Frog%20BG.png)
 
+### Just some Rad Frogs 2.0 - For Dark Mode Fans:
+![](https://github.com/NTUDevSoc/Asset-Pack/blob/master/Teams%20Backgrounds/Frog%20BG%20Inverted.png)
+
 ### Someone's the imposter:
 ![](https://github.com/NTUDevSoc/Asset-Pack/blob/master/Teams%20Backgrounds/SUS%20BG.png)
